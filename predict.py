@@ -1,1 +1,1 @@
-print("hello gayatri")  # This is a comment
+print("hello")  # This is a comment
